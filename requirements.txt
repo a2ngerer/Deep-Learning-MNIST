@@ -1,6 +1,6 @@
-Python implementation== CPython
-Python version       == 3.9.13
-IPython version      == 7.31.1
+#Python implementation== CPython
+#Python version       == 3.9.13
+#IPython version      == 7.31.1
 
 numpy     == 1.23.5
 tensorflow== 2.11.0
